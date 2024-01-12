@@ -1,3 +1,3 @@
-module cache-user-library
+module cacheuserlibrary
 
 go 1.21
